@@ -47,7 +47,7 @@ This will start the Flask development server, typically running on http://127.0.
 
 ## Screenshots:
 ![Screenshot (135)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/c6ec3df5-2be3-4cf2-bbd4-6d4b43dbf0ef)
-#### *Figure 1* - ```Basic Flask API ```
+#### *Figure 1* - ```Basic Flask API App ```
 
 ![Screenshot (133)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/6839b27a-bca0-44f0-aee6-8fc277e24727)
 #### *Figure 2* - ```UI Page ```
