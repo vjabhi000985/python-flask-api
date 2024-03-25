@@ -44,3 +44,9 @@ This will start the Flask development server, typically running on http://127.0.
 ### Test Case 5: Delete a Student (DELETE /students/<int:roll>)
   - Navigate to the DELETE /students/{roll} endpoint (replace {roll} with a valid student ID).
   - Click "Send". You should receive a status code 200 OK with the deleted student's information in the response (optional, depending on your implementation).
+
+## Screenshots:
+1. ![Screenshot (135)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/c6ec3df5-2be3-4cf2-bbd4-6d4b43dbf0ef)
+2. ![Screenshot (133)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/6839b27a-bca0-44f0-aee6-8fc277e24727)
+3. ![Screenshot (134)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/d440c611-0347-4d75-976a-d6e2eb6217d8)
+4. ![Screenshot (132)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/b1585fff-d30a-49b6-be1c-8d3cf022196e)
