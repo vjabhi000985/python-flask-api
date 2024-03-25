@@ -4,7 +4,7 @@ This is a basic Flask application that implements a simple Student API. You can 
 ## Prerequisites:
 - Python 3.x (https://www.python.org/downloads/)
 - Flask (https://flask.palletsprojects.com/)
-- APIDOG for testing (https://apidog.com)
+- Apidog for testing (https://apidog.com)
 
 ## Running the Application:
 1. Clone or download this repository ```git clone https://github.com/vjabhi000985/python-flask-api.git```
@@ -46,7 +46,14 @@ This will start the Flask development server, typically running on http://127.0.
   - Click "Send". You should receive a status code 200 OK with the deleted student's information in the response (optional, depending on your implementation).
 
 ## Screenshots:
-1. ![Screenshot (135)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/c6ec3df5-2be3-4cf2-bbd4-6d4b43dbf0ef)
-2. ![Screenshot (133)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/6839b27a-bca0-44f0-aee6-8fc277e24727)
-3. ![Screenshot (134)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/d440c611-0347-4d75-976a-d6e2eb6217d8)
-4. ![Screenshot (132)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/b1585fff-d30a-49b6-be1c-8d3cf022196e)
+![Screenshot (135)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/c6ec3df5-2be3-4cf2-bbd4-6d4b43dbf0ef)
+*Figure 1* - ```Basic Flask API ```
+
+![Screenshot (133)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/6839b27a-bca0-44f0-aee6-8fc277e24727)
+*Figure 2* - ```UI Page ```
+
+![Screenshot (134)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/d440c611-0347-4d75-976a-d6e2eb6217d8)
+*Figure 3* - ```JSON Student Data ```
+
+![Screenshot (132)](https://github.com/vjabhi000985/python-flask-api/assets/46738718/b1585fff-d30a-49b6-be1c-8d3cf022196e)
+*Figure 4* - ```Testing the API ```
