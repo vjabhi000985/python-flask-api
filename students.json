@@ -1,0 +1,37 @@
+[
+    {
+        "roll": 1,
+        "name": "Abhijit Kumar",
+        "branch": "CS"
+    },
+    {
+        "roll": 2,
+        "name": "Abhishek Nath",
+        "branch": "CS"
+    },
+    {
+        "roll": 3,
+        "name": "Ashutosh Nath",
+        "branch": "IT"
+    },
+    {
+        "roll": 4,
+        "name": "Bittu Kumar",
+        "branch": "EDU"
+    },
+    {
+        "roll": 5,
+        "name": "Disha Das",
+        "branch": "MKT"
+    },
+    {
+        "name": "John Doe",
+        "branch": "Computer Science",
+        "roll": 6
+    },
+    {
+        "name": "John Doe",
+        "branch": "Computer Science",
+        "roll": 7
+    }
+]
